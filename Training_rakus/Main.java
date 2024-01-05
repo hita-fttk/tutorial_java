@@ -1,30 +1,5 @@
 public class Main{
     public static void main(String args[]){
-        //Training1 Javaと出力
-        
-        //Training2
-        
-        //Training3
-                //Training4
-                //Training5
-
-        //Training6
-
-        //Training7
-
-        //Training8
-
-        //Training9
-
-        //Training10
-        
-        //Training11
-
-        //Training12
-        //Training13
-
-        //Training14
-        //Training15
         //Training25
         for(int i=0; i<5; i++){
             System.out.println("Higaki Taku");
