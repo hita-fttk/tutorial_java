@@ -1,3 +1,4 @@
+package NorthSoftware;
 import java.util.Random;
 
 public class North58 {

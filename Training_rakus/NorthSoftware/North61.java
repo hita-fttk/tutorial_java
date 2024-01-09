@@ -1,3 +1,4 @@
+package NorthSoftware;
 public class North61 {
     public static int squared(int i){
         return i*i;

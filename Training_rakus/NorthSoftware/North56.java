@@ -1,3 +1,4 @@
+package NorthSoftware;
 public class North56 {
     public static void main(String[] args) {
         int kuku[][] = new int[9][9];
