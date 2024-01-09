@@ -1,0 +1,421 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "North54",
+            "request": "launch",
+            "mainClass": "North54",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "North55",
+            "request": "launch",
+            "mainClass": "North55",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "North56",
+            "request": "launch",
+            "mainClass": "North56",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "North57",
+            "request": "launch",
+            "mainClass": "North57",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "North58",
+            "request": "launch",
+            "mainClass": "North58",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "North61",
+            "request": "launch",
+            "mainClass": "North61",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Prob01",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Prob01",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Prob02",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Prob02",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training1",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training1",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training10",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training10",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training11",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training11",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training12",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training12",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training13",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training13",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training14",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training14",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training15",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training15",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training16",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training16",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training17",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training17",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training18",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training18",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training19",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training19",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training2",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training2",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training20",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training20",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training21",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training21",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training22",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training22",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training23",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training23",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training24",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training24",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training25",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training25",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training26",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training26",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training27",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training27",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training28",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training28",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training29",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training29",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training3",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training3",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training30",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training30",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training31",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training31",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training32",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training32",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training33",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training33",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training34",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training34",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training35",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training35",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training36",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training36",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training37",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training37",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training38",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training38",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training39",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training39",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training4",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training4",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training40",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training40",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training41",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training41",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training42",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training42",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training43",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training43",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training44",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training44",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training45",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training45",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training46",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training46",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training47",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training47",
+            "projectName": "tutorial_java_4d5d4303",
+            "args":[79,80,100]
+        },
+        {
+            "type": "java",
+            "name": "Training48",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training48",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training49",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training49",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training5",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training5",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training6",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training6",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training7",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training7",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training8",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training8",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training9",
+            "request": "launch",
+            "mainClass": "ProgramingIntroduction.Training9",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Calc",
+            "request": "launch",
+            "mainClass": "calcapp.main.Calc",
+            "projectName": "tutorial_java_4d5d4303"
+        }
+    ]
+}
