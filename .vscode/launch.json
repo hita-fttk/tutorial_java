@@ -6,6 +6,146 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Main",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Equip",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Equip",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex18",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex18",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex17",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex17",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex16",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex16",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex15",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex15",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex14",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex14",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex13",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex13",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex13",
+            "request": "launch",
+            "mainClass": "Training_rakus.ObjectOrientation.Ex13",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex12",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex12",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex11",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex11",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex10",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex10",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex09",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex09",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex08",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex08",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex07",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex07",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex05",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex05",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex04",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex04",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex03",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.Ex02",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "InstantiateCar",
+            "request": "launch",
+            "mainClass": "ObjectOrientation.InstantiateCar",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -359,7 +499,11 @@
             "request": "launch",
             "mainClass": "ProgramingIntroduction.Training47",
             "projectName": "tutorial_java_4d5d4303",
-            "args":[79,80,100]
+            "args": [
+                79,
+                80,
+                100
+            ]
         },
         {
             "type": "java",
