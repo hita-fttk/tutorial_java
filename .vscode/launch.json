@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex10",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Ex10",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex09",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Ex09",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Zoo",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Zoo",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "startApp",
+            "request": "launch",
+            "mainClass": "ObjectPractical.startApp",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex06",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Ex06",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex05",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Ex05",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Ex03",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Ex02",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex31",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Ex31",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "ObjectPractical.Ex01",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "ObjectOrientation.Main",

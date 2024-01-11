@@ -15,7 +15,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         boolean isFinish = false;
         Treasure treasure = new Treasure();
-
+        treasure.startGame();
         while (!isFinish) {
             System.out.println(GO+"：向いている方向に一歩進む");
             System.out.println(RIGHT+"：右を向いて一歩進む");
