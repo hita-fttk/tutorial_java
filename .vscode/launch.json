@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex09",
+            "request": "launch",
+            "mainClass": "execute.Ex09",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "execute.Ex02",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "startApp",
+            "request": "launch",
+            "mainClass": "execute.startApp",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex05",
+            "request": "launch",
+            "mainClass": "execute.Ex05",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex06",
+            "request": "launch",
+            "mainClass": "execute.Ex06",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex10",
+            "request": "launch",
+            "mainClass": "Ex10",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Zoo",
+            "request": "launch",
+            "mainClass": "Zoo",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex06",
+            "request": "launch",
+            "mainClass": "Ex06",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
             "name": "Ex10",
             "request": "launch",
             "mainClass": "ObjectPractical.Ex10",
