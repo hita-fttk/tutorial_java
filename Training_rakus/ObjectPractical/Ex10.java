@@ -14,10 +14,10 @@ public class Ex10 {
 
         MedalFactory medalFactory = new MedalFactory();
         Medal[] medals = medalFactory.makeMedal(materials,employees);
-        System.out.println(medals.length);// makeMedalメソッドの戻り値であるmedalsのlengthは4
-
+        // System.out.println(medals.length);// makeMedalメソッドの戻り値であるmedalsのlengthは4
+        //★\tで表記をそろえられることを知った。
         for(int i=0; i<medals.length; i++){
-            System.out.println(medals[i].getPrice());
+            System.out.println("製品名:"+medals[i].getName()+"\t価格:"+medals[i].getPrice()+"円");
         }
         // System.out.println(medalFactory.makeMedal(materials,employees));
 
