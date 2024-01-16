@@ -7,11 +7,11 @@ import medal.MedalFactory;
 
 public class Ex10 {
     public static void main(String[] args) {
-        Employee employee1 = new Employee("山田",200000);
-        Employee employee2 = new Employee("海田",220000);
-        Employee employee3 = new Employee("川田",240000);
+        Employee employee1 = new Employee("山田",300000);
+        Employee employee2 = new Employee("海田",420000);
+        Employee employee3 = new Employee("川田",540000);
         Employee[] employees = {employee1,employee2,employee3};
-        Material material1 = new Material("金",10000);
+        Material material1 = new Material("金",20000);
         Material material2 = new Material("銀",5000);
         Material material3 = new Material("銅",1000);
         Material material4 = new Material("木",500);

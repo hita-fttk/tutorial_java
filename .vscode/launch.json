@@ -6,6 +6,378 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex11",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex11",
+            "projectName": "tutorial_java_4d5d4303",
+            "args":[2000]
+        },
+        {
+            "type": "java",
+            "name": "Ex10",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex10",
+            "projectName": "tutorial_java_4d5d4303",
+            "args": [
+                2024
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Ex09",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex09",
+            "projectName": "tutorial_java_4d5d4303",
+            "args": [
+                2014,
+                12,
+                25,
+                15,
+                4,
+                59
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Ex08",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex08",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex07",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex07",
+            "projectName": "tutorial_java_4d5d4303",
+            "args": [
+                20
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Ex06",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex06",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex05",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex05",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex04",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex04",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex03",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex02",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "EnumMain",
+            "request": "launch",
+            "mainClass": "EnumMain",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex17",
+            "request": "launch",
+            "mainClass": "exception_sample.Ex17",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex16",
+            "request": "launch",
+            "mainClass": "exception_sample.Ex16",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex15",
+            "request": "launch",
+            "mainClass": "exception_sample.Ex15",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex14",
+            "request": "launch",
+            "mainClass": "exception_sample.Ex14",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionSample4",
+            "request": "launch",
+            "mainClass": "exception_sample.ExceptionSample4",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex13",
+            "request": "launch",
+            "mainClass": "exception_sample.Ex13",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex12",
+            "request": "launch",
+            "mainClass": "exception_sample.Ex12",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionSample3",
+            "request": "launch",
+            "mainClass": "exception_sample.ExceptionSample3",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionSample2",
+            "request": "launch",
+            "mainClass": "exception_sample.ExceptionSample2",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionSample1",
+            "request": "launch",
+            "mainClass": "exception_sample.ExceptionSample1",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionSample1",
+            "request": "launch",
+            "mainClass": "ExceptionSample1",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Speech",
+            "request": "launch",
+            "mainClass": "Speech",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "TrainCalender",
+            "request": "launch",
+            "mainClass": "TrainCalender",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex11",
+            "request": "launch",
+            "mainClass": "Ex11",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex09",
+            "request": "launch",
+            "mainClass": "Ex09",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex08",
+            "request": "launch",
+            "mainClass": "Ex08",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex07",
+            "request": "launch",
+            "mainClass": "Ex07",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeSample5",
+            "request": "launch",
+            "mainClass": "DateTimeSample5",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeSample4",
+            "request": "launch",
+            "mainClass": "DateTimeSample4",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeSample3",
+            "request": "launch",
+            "mainClass": "DateTimeSample3",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeSample2",
+            "request": "launch",
+            "mainClass": "DateTimeSample2",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeSample",
+            "request": "launch",
+            "mainClass": "DateTimeSample",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex05",
+            "request": "launch",
+            "mainClass": "Ex05",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex04",
+            "request": "launch",
+            "mainClass": "Ex04",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "Ex03",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex02",
+            "request": "launch",
+            "mainClass": "Ex02",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "Ex01",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "EnumSample1",
+            "request": "launch",
+            "mainClass": "EnumSample1",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex22",
+            "request": "launch",
+            "mainClass": "Ex22",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex21",
+            "request": "launch",
+            "mainClass": "Ex21",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex20",
+            "request": "launch",
+            "mainClass": "Ex20",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex19",
+            "request": "launch",
+            "mainClass": "Ex19",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex18",
+            "request": "launch",
+            "mainClass": "Ex18",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Training49",
+            "request": "launch",
+            "mainClass": "Training49",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "execute.Ex01",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "execute.Ex03",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Zoo",
+            "request": "launch",
+            "mainClass": "execute.Zoo",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex10",
+            "request": "launch",
+            "mainClass": "execute.Ex10",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
             "name": "Ex09",
             "request": "launch",
             "mainClass": "execute.Ex09",

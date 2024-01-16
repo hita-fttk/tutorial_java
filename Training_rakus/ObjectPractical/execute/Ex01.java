@@ -9,5 +9,6 @@ public class Ex01 {
         bus.stepOnAccele();
         bus.stepOnBrake();
         bus.stepOnBrake();
+        bus.stepOnAccele();
     }
 }
