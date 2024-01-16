@@ -45,7 +45,7 @@ public class Speech {
         //listを降順にソート。collect(Collectors.toList())にしないとエラーになった。
         List<Integer> sortedNumbers = list.stream().sorted(Comparator.reverseOrder()).collect(Collectors.toList());
         // System.out.println(sortedNumbers);
-        // System.out.println(words);
+        // System.out.println(words)
 
         // for (Map.Entry<String, Integer> entry : words.entrySet()) {
         //     System.out.println(entry.getValue());
