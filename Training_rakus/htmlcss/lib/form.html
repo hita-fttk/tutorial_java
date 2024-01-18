@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="../user/temp.html" method="get" enctype="multipart/form-data">
+        <label>name:</label>
+        <input type="text"name="name">
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" name="pass" id="password">
+        </div>
+        <div>
+            <input type="radio" name="gender" value="male" checked>男
+            <input type="radio" name="gender" value="female">女
+        </div>
+        <div>
+            <input type="checkbox" name="triathlon" value="swim" checked>水泳
+            <input type="checkbox" name="triathlon" value="swim" >自転車
+            <input type="checkbox" name="triathlon" value="swim" >走る
+        </div>
+        <div>
+            <input type="file" name="file">
+        </div>
+        <div>
+            <input type="hidden" name="hidden" value="12345">
+        </div>
+        <div>
+            <label for="textarea">てきすとエリア：</label>
+            <textarea name="textarea" id="textarea" cols="30" rows="10"></textarea>
+        </div>
+        <div>
+            <label for="datetime">日付：</label>
+            <input type="datetime" name="datetime" id="datetime">
+        </div>
+            <div>
+                <label for="hobby">趣味：</label>
+                <select name="hobby" id="hobby" multiple>
+                    <option value="football">サッカー</option>
+                    <option value="baseball" selected>野球</option>
+                    <option value="basketball">バスケットボール</option>
+                    <option value="tenis">テニス</option>
+                    <option value="swim">水泳</option>
+                </select>
+            </div>
+        <div>
+            <button type="submit">送信</button>
+            <button type="reset">リセット</button>
+        </div>
+    </form>
+</body>
+</html>

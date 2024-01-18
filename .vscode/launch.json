@@ -6,11 +6,46 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex12",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex12",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex01",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex13Demo",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex13Demo",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Ex13",
+            "request": "launch",
+            "mainClass": "exfullreview.Ex13",
+            "projectName": "tutorial_java_4d5d4303",
+            "args": [
+                1,
+                8,
+                3
+            ]
+        },
+        {
+            "type": "java",
             "name": "Ex11",
             "request": "launch",
             "mainClass": "exfullreview.Ex11",
             "projectName": "tutorial_java_4d5d4303",
-            "args":[2000]
+            "args": [
+                2000
+            ]
         },
         {
             "type": "java",

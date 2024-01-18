@@ -57,6 +57,9 @@ public class Speech {
                 }
             }
         }
-        System.out.println(sortedMap);
+        // System.out.println(sortedMap);
+        for(String q : sortedMap.keySet()){
+            System.out.println(q+":"+sortedMap.get(q));
+        }
     }
 }

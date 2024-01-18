@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>演習7</title>
+</head>
+<body>
+    <h1>ECサイト会員登録フォーム</h1>
+    <div>
+        <form action="../lib/form.html" method="get">
+            <div>
+                <label for="name">名前：</label>
+                <input type="text" name="name">
+            </div>
+            <div>
+                <label for="address">メールアドレス：</label>
+                <input type="email" name="email">
+            </div>
+            <div>
+                <label for="password">パスワード：</label>
+                <input type="password">
+            </div>
+            <div>
+                <label for="gender">性別：</label>
+                <input type="radio" name="gender" value="male" checked>男
+                <input type="radio" name="gender" value="female">女
+            </div>
+            <div>
+                <label for="age">年齢：</label>
+                <select name="age" id="age">
+                    <option value="teenager">10代</option>
+                    <option value="twenty">20代</option>
+                    <option value="thirty">30代</option>
+                    <option value="fourty">40代</option>
+                    <option value="fifty">50代</option>
+                    <option value="sixty">60代</option>
+                    <option value="seventhty">70代</option>
+                    <option value="eighty">80代</option>
+                    <option value="nanity">90代</option>
+                </select>
+            </div>
+            <div>
+                <label for="checkbox">趣味を選んでください（複数選択可）</label>
+                <input type="checkbox" value="baseball">野球
+                <input type="checkbox" value="football">サッカー
+                <input type="checkbox" value="golf">ゴルフ
+                <input type="checkbox" value="tabletennis">卓球
+            </div>
+            <div>
+                <button type="submit">送信</button>
+                <button type="reset">リセット</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

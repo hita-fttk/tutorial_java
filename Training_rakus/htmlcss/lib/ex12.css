@@ -1,0 +1,28 @@
+header{
+    background-color: aqua;
+    height: 80px;
+    width: 900px;
+}
+.section1{
+    background-color: aquamarine;
+}
+.main{
+    display: flex;
+    width: 900px;
+    background-color: bisque;
+}
+.section1{
+    text-align: left;
+    width: 280px;
+    height: 500px;
+
+}
+.section2{
+    width: 620px;
+    height: 500px;
+}
+footer{
+    background-color: chartreuse;
+    width: 900px;
+    height: 80px;
+}
