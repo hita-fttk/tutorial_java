@@ -1,0 +1,38 @@
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    display: flex;
+    background-color: aqua;
+    height: 80px;
+    width: 900px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main{
+    display: flex;
+    width: 910px;
+    background-color: yellowgreen;
+
+}
+.section1{
+    background-color: aquamarine;
+    width: 280px;
+    height: 500px;
+}
+.section2{
+    width: 620px;
+    height: 500px;
+    background-color: bisque;
+}
+.footer{
+    background-color: chartreuse;
+    width: 900px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

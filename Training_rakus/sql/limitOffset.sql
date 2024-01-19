@@ -1,0 +1,1 @@
+SELECT * FROM employees ORDER BY id LIMIT 3 OFFSET 2;

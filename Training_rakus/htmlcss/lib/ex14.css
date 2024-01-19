@@ -1,0 +1,35 @@
+.body{
+    position: relative;
+    padding: 30px 30px 30px 30px;
+    background-image: url("../img/check.gif");
+    z-index: 1;
+}
+.content{
+    padding: 30px;
+    position: relative;
+    z-index: 2;
+    background-color: white;
+}
+
+h2{
+    color: #0850B2;
+    border-left: 15px solid #0850B2;
+    padding-left: 10px;
+}
+h3{
+    border-top: #0850B2 dashed 1px;
+    border-bottom: #0850B2 dashed 1px;
+    background-color: #CBE7FF;
+}
+h4{
+    color: #89EAE9;
+}
+.card{
+    display: flex;
+}
+p .card-child{
+    height: 90%;
+}
+img .card-child{
+    height: auto;
+}
