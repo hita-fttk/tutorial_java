@@ -6,6 +6,59 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exam01",
+            "request": "launch",
+            "mainClass": "Exam01",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Exam06",
+            "request": "launch",
+            "mainClass": "Exam06",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Exam05",
+            "request": "launch",
+            "mainClass": "Exam05",
+            "projectName": "tutorial_java_4d5d4303"
+        },
+        {
+            "type": "java",
+            "name": "Exam04",
+            "request": "launch",
+            "mainClass": "Exam04",
+            "projectName": "tutorial_java_4d5d4303",
+            "args": [
+                2100
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Exam03",
+            "request": "launch",
+            "mainClass": "Exam03",
+            "projectName": "tutorial_java_4d5d4303",
+            "args": [
+                101
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Exam02",
+            "request": "launch",
+            "mainClass": "Exam02",
+            "projectName": "tutorial_java_4d5d4303",
+            "args": [
+                11,
+                59,
+                59
+            ]
+        },
+        {
+            "type": "java",
             "name": "Ex12",
             "request": "launch",
             "mainClass": "exfullreview.Ex12",

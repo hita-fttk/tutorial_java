@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 
 public class ShopingKart {
+    //ArrayList<Item>型の変数itemListを定義（箱を用意した。）
     private ArrayList<Item> itemList;
     public ShopingKart(){
         this.itemList = new ArrayList<>();

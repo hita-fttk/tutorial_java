@@ -9,10 +9,10 @@ public class Ex05 {
             if(f0 > 1000){
                 break; 
             }
-            System.out.print(f1+" ");
+            total = f0+f1;
             f0 = f1;
             f1 = total;
-            total = f0+f1;
+            System.out.print(f0+" ");
         }
     }
 }
